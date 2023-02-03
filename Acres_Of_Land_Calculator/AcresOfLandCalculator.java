@@ -1,6 +1,3 @@
-
-package acresoflandcalculator;
-
 import java.util.Scanner;   // Data Reader
 
 
